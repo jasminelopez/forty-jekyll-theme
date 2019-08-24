@@ -1,13 +1,26 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: About me
+description:
+image: assets/images/pic09.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+I am currently a software engineer who is supporting and tutoring others in learning the JavaScript full stack. Coming from a business background, I have a deep insight of the importance of technology, user experience, and performance in my code. Front-end web development calls to all of my passions; it incorporates creativity and problem solving all in one. I am actively seeking a full time software engineering role.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Front End | JavaScript (ES5 and ES6), React, React-Native, Redux, jQuery, HTML5, CSS3, Axios
+Back End | Node.js, Express, MySQL, PostgreSQL, MongoDB, Mongoose, Cassandra
+Methodologies |TDD, BDD, RESTful API, Agile
+Testing/Deployment | Jest, Enzyme, Mocha + Chai, EC2
+Developer Tools | Git, NPM, Webpack, Babel, Postman
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Get In Touch</h2>
+		</header>
+		<p></p>
+	</div>
+</section>

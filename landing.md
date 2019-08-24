@@ -1,8 +1,8 @@
 ---
-title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+title: Projects
+description:
+image: assets/images/pic03.jpg
 nav-menu: true
 ---
 
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>See what I've built</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p></p>
 	</div>
 </section>
 
@@ -23,17 +23,17 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/Barebnb_Photos.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Barebnb</h3>
+					<h4>React, CSS-Styled Components, Express, AWS (S3) MongoDB, Mongoose, Jest</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Front-end application similar to that of Airbnb's. Created a component that displays reviews from a Mongo database and searches user reviews utilizing CSS-Styled Components, Express, Mongoose and Jest for testing.</p>
+				<div><a href="https://github.com/5uper5quad/Ja5mine-5ervice" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a>
+				</div>
 			</div>
 		</div>
 	</section>
@@ -44,12 +44,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Exhaust</h3>
+					<h4>React, Express, Node.js, AWS (EC2), PostgreSQL, Cassandra, New Relic</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Responsive front-end component similar to that of an online digital game purchasing platform. Refactored the backend and seeded the database with 10 million entries and then optimized it for performance utilizing New Relic to measure load. Deployed with AWS S3.</p>
+				<div><a href="https://github.com/5dc-5uper5quad/5DC-Ja5mine-5ervice" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a>
+				</div>
 			</div>
 		</div>
 	</section>
@@ -60,12 +60,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Taco Locator</h3>
+					<h4>React, CSS-Styled Components, Express, MongoDB, Mongoose, Jest</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Interactive front-end app that allows users to search for and save their favorite taco restaurants. Utilizes React, CSS, Express, MongoDB, and Mongoose.</p>
+				<div><a href="https://github.com/jasminelopez/hrr38-mvp-project" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a>
+				</div>
 			</div>
 		</div>
 	</section>
@@ -75,12 +75,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Get In Touch</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		<p></p>
 	</div>
 </section>
 
