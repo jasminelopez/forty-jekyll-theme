@@ -3,9 +3,9 @@ title: Jasmine Lopez
 subtitle:
 email: lopez.jasmine094@gmail.com
 description: I'm a software engineer based in Los Angeles, CA <br /> specializing in building high quality applications.
-baseurl: ""
+baseurl:
 # the subpath of your site, e.g. /blog
-url: jasminelopez.github.io
+url:
 # the base hostname & protocol for your site
 author:
 street_address:
