@@ -1,21 +1,10 @@
 ---
 layout: allposts
 title: Blog Posts
-landing-title: 'Blog Posts'
+landing-title: 'All posts'
 nav-menu: true
 description: null
-image: null
+image: assets/images/pic05.jpg
 author: null
-show_tile: false
+show_tile: true
 ---
-
-<h1>All posts</h1>
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Elements</h1>
-		</header>
