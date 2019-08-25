@@ -24,8 +24,8 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Resume Embedded Image -->
-<div style="margin-left: 400px">
-	<embed src="assets/images/JasmineLopez_Resume.pdf" width="780px" height="1050px" />
+<div style="margin: auto">
+	<embed src="assets/images/JasmineLopez_Resume.pdf" width="780px" height="1050px" style="margin: auto"/>
 </div>
 
 

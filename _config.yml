@@ -17,7 +17,7 @@ phone: (815) 277 6912
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 5
+tiles-count: 6
 
 # social settings
 500px_url:
