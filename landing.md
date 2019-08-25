@@ -47,7 +47,7 @@ nav-menu: true
 					<h3>Exhaust</h3>
 					<h4>React, Express, Node.js, AWS (EC2), PostgreSQL, Cassandra, New Relic</h4>
 				</header>
-				<p>Responsive front-end component similar to that of an online digital game purchasing platform. Refactored the backend and seeded the database with 10 million entries and then optimized it for performance utilizing New Relic to measure load. Deployed with AWS S3.</p>
+				<p>Responsive front-end component similar to that of an online digital game purchasing platform. Refactored the backend and seeded the database with 10 million entries and then optimized it for performance utilizing New Relic to measure load. Deployed with AWS EC2.</p>
 				<div><a href="https://github.com/5dc-5uper5quad/5DC-Ja5mine-5ervice" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a>
 				</div>
 			</div>
