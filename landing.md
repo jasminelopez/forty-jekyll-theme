@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/Exhuast_Module.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
